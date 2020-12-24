@@ -1,5 +1,5 @@
 ---
-title: "Appendix 3: Codes"
+title: "LR with SODS Data"
 output: pdf_document
 ---
 
